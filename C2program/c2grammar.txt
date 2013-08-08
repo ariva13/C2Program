@@ -1,0 +1,55 @@
+<grammar version="1.0" xml:lang="en-US" root="topLevel"
+ xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="topLevel">
+    <ruleref uri="#c2commands" />
+    <ruleref uri="#pauseCommands" />
+    <ruleref uri="#stopCommands" />
+  </rule>
+
+  <rule id="c2commands">
+    <one-of>
+      <item> see two </item>
+      <item> good morning </item>
+      <item> how are you </item>
+    </one-of>
+  </rule>
+
+  <rule id="pauseCommands">
+    <ruleref uri="#pauseAction" />
+    <item> the </item>
+    <ruleref uri="#fileWords" />
+  </rule>
+
+  <rule id="pauseAction">
+    <one-of>
+      <item> pause </item>
+      <item> suspend </item>
+      <item> hold </item>
+    </one-of>
+  </rule>
+
+<rule id="stopCommands">
+    <ruleref uri="#stopAction" />
+    <item> the </item>
+    <ruleref uri="#fileWords" />
+  </rule>
+
+  <rule id="stopAction">
+    <one-of>
+      <item> stop </item>
+      <item> end </item>
+      <item> quit </item>
+    </one-of>
+  </rule>
+
+  <rule id="fileWords">
+    <one-of>
+      <item> song </item>
+      <item> tune </item>
+      <item> track </item>
+      <item> item </item>
+    </one-of>
+  </rule>
+
+</grammar>

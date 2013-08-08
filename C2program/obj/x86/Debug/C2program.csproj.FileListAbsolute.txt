@@ -1,0 +1,35 @@
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\bin\Debug\C2program.exe
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\bin\Debug\C2program.pdb
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\C2program.csproj.ResolveComReference.cache
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\C2program.Properties.Resources.resources
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\C2program.exe
+C:\Users\Debbie\AppData\Local\Temporary Projects\C2program\obj\x86\Debug\C2program.pdb
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.csproj.ResolveComReference.cache
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.exe
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.pdb
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\bin\Debug\C2program.exe
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\bin\Debug\C2program.pdb
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.Form1.resources
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.Properties.Resources.resources
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Debbie\Documents\Blake\Programming\CSharp\C2program\C2program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.csproj.ResolveComReference.cache
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.exe
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.pdb
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\bin\Debug\C2program.exe
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\bin\Debug\C2program.pdb
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.Form1.resources
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.Properties.Resources.resources
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.csproj.GenerateResource.Cache
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\bin\Debug\Media.dll
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\bin\Debug\Media.pdb
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\C2program.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\bin\Debug\WinSound.dll
+C:\Users\Blake\Documents\Programming\CSharp\C2program\C2program\obj\x86\Debug\Interop.ElevateWlanUi.dll
